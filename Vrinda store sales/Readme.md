@@ -1,14 +1,14 @@
-# VRinda Store Analysis Excel Dashboard
+# VRinda Store Sales - Stationary
 
 ## Overview
 
-This repository contains an Excel dashboard for analyzing data related to VRinda Store. The dashboard is designed to provide insightful visualizations and analytics for better decision-making.
+Welcome to the VRinda Store Sales project, focused on analyzing and managing sales data, with a particular emphasis on stationary products. This repository includes tools and documentation to help you understand, visualize, and leverage sales data effectively.
 
 ## Features
 
-- **Interactive Dashboard:** Navigate through the data using interactive charts and graphs.
-- **Data Analysis:** Gain insights into various aspects of VRinda Store, such as sales trends, customer behavior, and product performance.
-- **Customization:** Easily customize the dashboard to suit your specific needs.
+- **Stationary Sales Analysis:** In-depth analysis of sales related to stationary products.
+- **Interactive Dashboards:** Visualize sales trends, track product performance, and explore customer behavior.
+- **Data Management:** Tools for importing, cleaning, and updating sales data easily.
 
 ## Getting Started
 
@@ -21,26 +21,26 @@ This repository contains an Excel dashboard for analyzing data related to VRinda
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/VRinda-Store-Analysis.git
+    git clone https://github.com/your-username/VRinda-Store-Sales-Stationary.git
     ```
 
-2. Open the `VRinda_Store_Analysis.xlsx` file in Excel.
+2. Open the `VRinda_Store_Sales_Stationary.xlsx` file in Excel.
 
-3. Explore the dashboard and start analyzing the data.
+3. Explore the dashboards and reports to gain insights into stationary sales.
 
 ## Dashboard Screenshots
 
-![Dashboard Screenshot 1](screenshots/dashboard_screenshot1.png)
+![Dashboard Screenshot 1](screenshots/dashboard_stationary_screenshot1.png)
 *Caption for Screenshot 1.*
 
-![Dashboard Screenshot 2](screenshots/dashboard_screenshot2.png)
+![Dashboard Screenshot 2](screenshots/dashboard_stationary_screenshot2.png)
 *Caption for Screenshot 2.*
 
 ## Usage
 
-- **Data Import:** Update the data in the Excel file to reflect the latest information.
-- **Filtering:** Utilize Excel's filtering options to focus on specific data subsets.
-- **Chart Interaction:** Click on elements within the charts to drill down into specific details.
+- **Data Import:** Update the sales data in the Excel file to reflect the latest information.
+- **Stationary Analysis:** Utilize specific sheets or charts dedicated to stationary sales for a focused analysis.
+- **Customization:** Tailor the dashboard to your specific needs by modifying relevant parameters.
 
 ## Contributing
 
@@ -63,6 +63,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or feedback, please contact [Your Name] at your.email@example.com.
+For any questions or feedback related to stationary sales analysis, please contact [Your Name] at your.email@example.com.
+
 
 
