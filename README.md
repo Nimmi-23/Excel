@@ -1,4 +1,4 @@
-# VRinda Store Analysis Excel Dashboard
+# Vrinda Store Analysis Excel Dashboard
 
 ## Overview
 
